@@ -1,7 +1,7 @@
 ---
-title: "Title"
+title: "Nuclear Arms Races. Who Is More Responsible?"
 author: 
-  - Last Name, First Name[^1]
+  - Sarıyüce, Abdulhakim[^1]
 bibliography: ../bibliography/biblio.bib
 csl: ../csl/apa.csl
 header-includes:
@@ -32,20 +32,10 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== FOOTNOTES ============================== -->
 <!-- ======================================================================= -->
-[^1]: Student ID, [Github Repo](https://github.com/YOUR_USER_NAME_HERE/YOUR_REPO_NAME_HERE)
-
-# Important Information About Midterm
-
-\colorbox{BurntOrange}{WRITE YOUR GITHUB REPO LINK ON LINE 35 IN THIS FILE!}
-
-**Project Proposal submisson will be done by uploading a zip file to the ekampus system along with the Github repo link. If you do not upload a zip file to the system and do not provide a Github repo link, you will be deemed not to have entered the midterm and final exams.**
-
-**You must upload your project folder (`YourStudentID.zip` file) to *ekampus.ankara.edu.tr* until 16 April 2023, 23:59.**
-
-\colorbox{WildStrawberry}{Read the README.md file in the project folder for more information.}
+[^1]:20080399, [Github Repo](https://github.com/abdulhkmsrc/mid-term)
 
 # Introduction
-This outline has been created to assist you in writing your project assignment. You should cite all the sources you use, articles, presentations, projects, etc. Quoting and referencing gives readers the opportunity to access the resources you refer. **Even though you use your own words, if you are conveying the ideas of others in your work, you have to document the source of these ideas. Otherwise, you are committing academic plagiarism.** For example, you can refer to @aydinonat:2007 for academic writing rules. You can find lots of online resources on this topic.
+The second world war ended in 1945 with two nuclear explosion in Japan, Nagasaki and Hiroshima. After that situation, the importance of nuclear power was understood by allied powers that were able to be named as winners of the second world war. After that war, the cold war began. Old allies became new enemies. In order to win the arms race, two enemies started developing nuclear weapons and tested them in deserts, oceans, islands and etc. Different explosion methods, different nuclear energy sources were used in order to find perfect way to create the perfect Armageddon weapon. Luckily, there has been no usage of nuclear power to destroy a nation. However, as I have said before, these weapons were tested and these tests have harmed our environment in a very bad way       
 
 The sections in your project assignment must necessarily include the sections in this text (except the first section, of course). Apart from the sections used here, you can use different subsections. When writing your project, use this file as a draft and adapt its content to your purposes.
 
